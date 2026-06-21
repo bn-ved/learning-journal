@@ -1,0 +1,17 @@
+# Dependencies / build artifacts
+node_modules/
+dist/
+build/
+target/
+__pycache__/
+*.pyc
+.venv/
+venv/
+bin/
+*.exe
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
