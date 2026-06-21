@@ -25,15 +25,15 @@
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
 - [x] Product of Array Except Self
-- [ ] Valid Sudoku
+- [x] Valid Sudoku
 - [ ] Encode and Decode Strings
 - [x] Longest Consecutive Sequence
 
 ### Two Pointers
-- [ ] Valid Palindrome
-- [ ] Two Sum II
-- [ ] 3Sum
-- [ ] Container With Most Water
+- [x] Valid Palindrome
+- [x] Two Sum II
+- [x] 3Sum
+- [x] Container With Most Water
 - [ ] Trapping Rain Water
 
 ### Sliding Window
